@@ -6,7 +6,7 @@
    "telegram",
    "FiletoLinkBot"
   ],
- "repository": "https://github.com/TGExplore/TG-Files-to-Link",
+ "repository": "https://github.com/Soaibkhan38/TG-Files-to-Link",
  "env": {
    "TG_API_ID": {
       "description": "Your Telegram API ID. Get this value from my.telegram.org!",
@@ -20,6 +20,10 @@
       "description": "Run Console this (python3 GenerateStringSession.py) ",
       "value": ""
   },
+   "TG_BOT_FATHER_TOKEN": {
+      "description": "Bot token ",
+      "value": ""
+   },
    "HOST": {
       "description": "Leave the Same Value",
       "value": "0.0.0.0",
